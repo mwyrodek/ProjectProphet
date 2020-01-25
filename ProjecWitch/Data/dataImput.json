@@ -1,0 +1,54 @@
+﻿[
+  {
+    "Probability": "Common",
+    "Message": "No."
+  },
+  {
+    "Probability": "Common",
+    "Message": "Never."
+  },
+  {
+    "Probability": "Uncommon",
+    "Message": "Was there ever a project on time?"
+  },
+  {
+    "Probability": "Rare",
+    "Message": "Hahaha No."
+  },
+  {
+    "Probability": "Rare",
+    "Message": "Projects are never done only released."
+  },
+  {
+    "Probability": "Legendary",
+    "Message": "¯\\_(ツ)_/¯"
+  },
+  {
+    "Probability": "Legendary",
+    "Message": "Sorry... scope change - check your email."
+  },
+  {
+    "Probability": "Epic",
+    "Message": "Oh boy... get ready for UAT issues..."
+  },
+  {
+    "Probability": "Uncommon",
+    "Message": "Are you asking the right question?"
+  },
+  {
+    "Probability": "Uncommon",
+    "Message": "Trust me you better don't know."
+  },
+  {
+    "Probability": "Uncommon",
+    "Message": "Not likely."
+  },
+  {
+    "Probability": "Rare",
+    "Message": "Wow. Asking some fake website for advice... You know the answer already don't you?"
+  },
+  {
+    "Probability": "Legendary",
+    "Message": "Search your feeling you know the answer."
+  }
+]

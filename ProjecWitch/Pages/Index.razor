@@ -1,0 +1,23 @@
+﻿@page "/"
+@inherits IndexBase
+<div hidden=@IsButtonHidden>
+    <h1>So You stand here alone at night</h1>
+    <h1>You wander the one question</h1>
+
+    <p> The only Question:</p>
+    <p> Will your project be on time?</p>
+    <p> So ask and star will answer</p>
+</div>
+
+@if (Messege == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <p><button @onclick=@TellProphecy hidden=@IsButtonHidden><i>Will my project be on time</i></button></p>
+    <div hidden=@IsMessegeHidden>
+        <h2 >The Answer is :</h2>
+        <h1 class=@rarityCss> <b>@Messege</b> </h1>
+    </div>
+}
